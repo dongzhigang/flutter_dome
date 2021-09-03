@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'layout/home-list.dart';
+import 'package:flutter_dome/pages/layout/home-list.dart';
 
 // _HomeStateFulWidget
 class HomePage extends StatefulWidget {
